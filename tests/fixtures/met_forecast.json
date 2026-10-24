@@ -1,0 +1,24 @@
+{
+  "type": "Feature",
+  "geometry": {"type": "Point", "coordinates": [13.75, 51.05, 120]},
+  "properties": {
+    "meta": {"updated_at": "2026-10-24T12:00:00Z"},
+    "timeseries": [
+      {
+        "time": "2026-10-24T12:00:00Z",
+        "data": {
+          "instant": {
+            "details": {
+              "air_temperature": 12.4,
+              "wind_speed": 3.2
+            }
+          },
+          "next_1_hours": {
+            "summary": {"symbol_code": "partlycloudy_day"},
+            "details": {"precipitation_amount": 0.0}
+          }
+        }
+      }
+    ]
+  }
+}

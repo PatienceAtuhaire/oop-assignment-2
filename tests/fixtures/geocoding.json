@@ -1,0 +1,18 @@
+{
+  "results": [
+    {
+      "name": "Springfield",
+      "latitude": 39.8017,
+      "longitude": -89.6436,
+      "country": "United States",
+      "admin1": "Illinois"
+    },
+    {
+      "name": "Springfield",
+      "latitude": 42.1015,
+      "longitude": -72.5898,
+      "country": "United States",
+      "admin1": "Massachusetts"
+    }
+  ]
+}
