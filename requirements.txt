@@ -16,3 +16,6 @@ requests==2.34.2
 six==1.17.0
 tzdata==2026.5
 urllib3==2.8.0
+pytest>=8.0
+hypothesis>=6.0
+ipykernel>=6.0
